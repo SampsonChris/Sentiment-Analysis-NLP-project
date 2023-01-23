@@ -3,7 +3,7 @@
 The goal of this project is to Fine-tune pretrained sentiment analysis models on Hugging face, host the fine-tuned models on Hugging face, create a Gradio app for Sentiment prediction and dockerize the app. 
 
 You can find attached a link to my models and apps on hugging face below 
-- SampsonChris/sentiment_analysis_on_covid_tweets
+- https://huggingface.co/SampsonChris
 - SampsonChris/Analysis_on_socialmedia_sentiment_on_vaccines
 - SampsonChris/Sentiment-Analysis-App
 
